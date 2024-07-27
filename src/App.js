@@ -4,6 +4,10 @@ import Banner from "./components/banner/Banner";
 import Features from "./components/features/Features";
 import Projects from "./components/projects/Projects";
 import Resume from "./components/resume/Resume";
+import Contact from "./components/contact/Contact";
+import Footer from "./components/footer/Footer";
+import FooterBottom from "./components/footer/FooterBottom";
+
 
 function App() {
   return (
@@ -14,6 +18,9 @@ function App() {
           <Features/>
           <Projects/>
           <Resume/>
+          <Contact/>
+          <Footer/>
+          <FooterBottom/>
         </div>  
       </div>
   );
