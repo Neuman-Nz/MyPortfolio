@@ -40,3 +40,30 @@ export const featuresData = [
     des: "Skilled in hosting websites, ensuring fast, secure, and reliable online presence. Proficient in deploying, managing, and optimizing web servers for optimal performance and uptime.",
   },
 ];
+
+export const projectData = [
+  {
+    id: 1,
+    des: " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!",
+    src: "https://i.postimg.cc/QdNRZmBS/project1.png",
+    title: "Job-seeker Application"
+  },
+  {
+    id: 2,
+    des: " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!",
+    src: "https://i.postimg.cc/1zXXXDdr/project2.png",
+    title: "PBO Website"
+  },
+  {
+    id: 3,
+    des: " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!",
+    src: "https://i.postimg.cc/6q0YHshK/project3.png",
+    title: "E-commerce Website"
+  },
+  {
+    id: 4,
+    des: " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Explicabo quibusdam voluptate sapiente voluptatibus harum quidem!",
+    src: "https://i.postimg.cc/tTd5T0w6/project4.png",
+    title: "Suger-Tracker Application"
+  }
+]
