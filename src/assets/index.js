@@ -4,9 +4,6 @@ import project1 from "./images/projects/project1.png";
 import project2 from "./images/projects/project2.png";
 import project3 from "./images/projects/project3.png";
 import project4 from "./images/projects/project4.png";
-// import testimonialOne from "./images/testmonial/testimonialOne.png";
-// import testimonialTwo from "./images/testmonial/testimonialTwo.png";
-// import quote from "./images/testmonial/quote.png";
 import contactImg from "./images/contact/contactImg.jpg";
 
 export {
@@ -16,8 +13,5 @@ export {
   project2,
   project3,
   project4,
-//   testimonialOne,
-//   testimonialTwo,
-//   quote,
   contactImg,
 };

@@ -1,5 +1,5 @@
-import React from 'react'
-import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
+import React from 'react';
+import { FaGithub, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 import { contactImg } from "../../assets/index";
 
 const ContactLeft = () => {
@@ -16,8 +16,8 @@ const ContactLeft = () => {
           Full-Stack Developer
         </p>
         <p className="text-base text-gray-400 tracking-wide">
-          This is where we get to discuss on any job offers or 
-          inquiry of uncertainity after reviewing my Portfolio.
+          This is where we get to discuss any job offers or 
+          inquiries after reviewing my portfolio.
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           Phone: <span className="text-lightText">+254 714328458</span>
@@ -27,21 +27,21 @@ const ContactLeft = () => {
         </p>
       </div>
       <div className="flex flex-col gap-4">
-        <h2 className="text-base uppercase font-titleFont mb-4">Find me in</h2>
+        <h2 className="text-base uppercase font-titleFont mb-4">Find me on</h2>
         <div className="flex gap-4">
-          <span className="bannerIcon">
-            <FaFacebookF />
-          </span>
-          <span className="bannerIcon">
+          <a href="https://github.com/Neuman-Nz" target="_blank" rel="noopener noreferrer" className="bannerIcon">
+            <FaGithub />
+          </a>
+          <a href="https://x.com/Adams1740472" target="_blank" rel="noopener noreferrer" className="bannerIcon">
             <FaTwitter />
-          </span>
-          <span className="bannerIcon">
+          </a>
+          <a href="https://www.linkedin.com/in/neuman-walala-8134a520b/" target="_blank" rel="noopener noreferrer" className="bannerIcon">
             <FaLinkedinIn />
-          </span>
+          </a>
         </div>
       </div>
     </div>
   );
 }
 
-export default ContactLeft
+export default ContactLeft;
