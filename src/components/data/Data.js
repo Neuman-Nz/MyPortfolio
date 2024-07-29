@@ -41,34 +41,6 @@ export const featuresData = [
   },
 ];
 
-// export const projectData = [
-//   {
-//     id: 1,
-//     des: " This is a project that I was part of as a scram master. The project dwelled on full stack development as React and Flask was used as the main Frameworks",
-//     src: "https://i.postimg.cc/QdNRZmBS/project1.png",
-//     title: "Job-seeker Application"
-//   },
-//   {
-//     id: 2,
-//     des: " Currently working on this web application as the customization is closely being monitized by the client. It involves active use of React(frontend) and later on Flask for its backend",
-//     src: "https://i.postimg.cc/1zXXXDdr/project2.png",
-//     title: "PBO Website"
-//   },
-//   {
-//     id: 3,
-//     des: " As a freelancer, I developed a customized based website for an individual business owner using HTML,CSS,Bootstrap,and Javascript",
-//     src: "https://i.postimg.cc/6q0YHshK/project3.png",
-//     title: "Customized Business Website"
-//   },
-//   {
-//     id: 4,
-//     des: " A mini-application that I was part of that which is used to track sugar levels of the users as it guides on nutrient intake",
-//     src: "https://i.postimg.cc/tTd5T0w6/project4.png",
-//     title: "Suger-Tracker Application"
-//   }
-// ]
-
-
 export const projectData = [
   {
     id: 1,
