@@ -5,6 +5,16 @@ module.exports = {
   ],
   theme: {
     extend: {
+      screens: {
+        xs: "320px",
+        sm: "375px",
+        sm1: "500px",
+        md: "667px",
+        md1: "768px",
+        lg: "960px",
+        lgl: "1024px",
+        xl: "1280px",
+      },
       fontFamily: {
         bodyFont: ["Poppins", "sans-serif"],
         titleFont: ["Montserrat", "sans-serif"],
