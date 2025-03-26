@@ -44,34 +44,34 @@ export const featuresData = [
 export const projectData = [
   {
     id: 1,
-    des: " This is a project that I was part of as a scram master. The project dwelled on full stack development as React and Flask was used as the main Frameworks",
-    src: "https://i.postimg.cc/QdNRZmBS/project1.png",
-    title: "Job-seeker Application",
-    github: "https://github.com/Neuman-Nz/Job-seeker-App",
-    live: "https://careergo.onrender.com/"
+    des: " This is a project that I was part of as a frontend developer. The project dwelled on full stack development as React was used as the main Frontend Framework",
+    src: "https://i.postimg.cc/vHQZtr42/tovuti-pic.png",
+    title: "SaharaDesk Application",
+    // github: "https://github.com/Neuman-Nz/Job-seeker-App",
+    live: "https://www.saharadesk.com/"
   },
   {
     id: 2,
-    des: " Currently working on this web application as the customization is closely being monitized by the client. It involves active use of React(frontend) and later on Flask for its backend",
-    src: "https://i.postimg.cc/1zXXXDdr/project2.png",
-    title: "PBO Website",
-    github: "https://github.com/Neuman-Nz/MINDAfrica_Application",
-    live: "https://mind-africa-web.vercel.app/"
+    des: " This is a project that I was part of as a frontend developer. The project dwelled on full stack development as React was used as the main Frontend Framework",
+    src: "https://i.postimg.cc/9MwK5nrX/beyyond-pic.png",
+    title: "consultancy Website",
+    // github: "https://github.com/Neuman-Nz/MINDAfrica_Application",
+    live: "https://beyondthesavannah.co.ke/"
   },
   {
     id: 3,
     des: " As a freelancer, I developed a customized based website for an individual business owner using HTML,CSS,Bootstrap,and Javascript",
-    src: "https://i.postimg.cc/6q0YHshK/project3.png",
+    src: "https://i.postimg.cc/rm6z5zR8/dusklight-pic3.png",
     title: "Customized Business Website",
-    github: "https://github.com/Neuman-Nz/WAKHANA-LIMITED",
-    live: "https://wakhana-limited.vercel.app/"
+    // github: "https://github.com/Neuman-Nz/WAKHANA-LIMITED",
+    live: "https://dusklightventure.com/"
   },
-  {
-    id: 4,
-    des: " A mini-application that I was part of that which is used to track sugar levels of the users as it guides on nutrient intake",
-    src: "https://i.postimg.cc/tTd5T0w6/project4.png",
-    title: "Sugar-Tracker Application",
-    github: "https://github.com/Neuman-Nz/Sugar-Tracker",
-    live: "https://sugar-tracker-pink.vercel.app/"
-  }
+  // {
+  // //   id: 4,
+  //   des: " A mini-application that I was part of that which is used to track sugar levels of the users as it guides on nutrient intake",
+  //   src: "https://i.postimg.cc/tTd5T0w6/project4.png",
+  //   title: "Sugar-Tracker Application",
+  //   github: "https://github.com/Neuman-Nz/Sugar-Tracker",
+  //   live: "https://sugar-tracker-pink.vercel.app/"
+  // }
 ]

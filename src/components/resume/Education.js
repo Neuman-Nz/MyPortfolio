@@ -20,7 +20,7 @@ const Education = () => {
           <ResumeCard
             title="Full-Stack Web Development"
             subTitle="Moringa School (2023 - 2024)"
-            result="Awaiting Graduation"
+            result="Distinction"
             des="The training provided by Moringa School in order to prepare people to work in various sectors of the economy or areas of culture."
           />
           <ResumeCard
@@ -47,9 +47,9 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Web Developer"
-            subTitle="MIND AFRICA - (2024 - Present)"
+            subTitle="TOVUTI GROUP - (2024 - Present)"
             result="NAIROBI"
-            des="MIND Africa's mission is to empower the next generation of global leaders and professionals through mentorship and the provision of essential medical supplies."
+            des="TOVUTI GROUP's mission is to inspire, empower people and organizations through the power of innovative technology solutions that make their life/work simple and creates value."
           />
           <ResumeCard
             title="Software Technician"
