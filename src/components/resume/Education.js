@@ -46,10 +46,10 @@ const Education = () => {
         </div>
         <div className="mt-6 lgl:mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Web Developer"
-            subTitle="TOVUTI GROUP - (2024 - Present)"
+            title="Fullstack Developer"
+            subTitle="Peak Mobile - (2023 Dec - 2025 Jan)"
             result="NAIROBI"
-            des="TOVUTI GROUP's mission is to inspire, empower people and organizations through the power of innovative technology solutions that make their life/work simple and creates value."
+            des=" Peak Mobile Solutions, a leading Kenyan digital Value-Added Services (VAS) company specializing in mobile engagement platforms such as Bulk SMS, Direct Carrier Billing, and mobile data distribution"
           />
           <ResumeCard
             title="Software Technician"

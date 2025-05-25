@@ -44,11 +44,11 @@ export const featuresData = [
 export const projectData = [
   {
     id: 1,
-    des: " This is a project that I was part of as a frontend developer. The project dwelled on full stack development as React was used as the main Frontend Framework",
-    src: "https://i.postimg.cc/vHQZtr42/tovuti-pic.png",
-    title: "SaharaDesk Application",
+    des: " A web-based application designed to help businesses manage and grow customer retention through a digital loyalty points system.",
+    src: "https://i.postimg.cc/L4cG4Y0Z/Loyalty-App.png",
+    title: "Customer Loyalty Platform (Prototype)",
     // github: "https://github.com/Neuman-Nz/Job-seeker-App",
-    live: "https://www.saharadesk.com/"
+    live: "https://react-native-glimpse-view-30.vercel.app/"
   },
   {
     id: 2,
@@ -66,12 +66,20 @@ export const projectData = [
     // github: "https://github.com/Neuman-Nz/WAKHANA-LIMITED",
     live: "https://dusklightventure.com/"
   },
-  // {
-  // //   id: 4,
-  //   des: " A mini-application that I was part of that which is used to track sugar levels of the users as it guides on nutrient intake",
-  //   src: "https://i.postimg.cc/tTd5T0w6/project4.png",
-  //   title: "Sugar-Tracker Application",
-  //   github: "https://github.com/Neuman-Nz/Sugar-Tracker",
-  //   live: "https://sugar-tracker-pink.vercel.app/"
-  // }
+  {
+    id: 4,
+    des: " An education-focused platform aimed at connecting learners with curated learning resources, live mentorship programs, and trackable learning paths to promote digital skills acquisition and career development.",
+    src: "https://i.postimg.cc/GtdYzjmy/elewa.png",
+    title: "Elewa Education",
+    // github: "https://elewa.education",
+    live: "https://elewa.education"
+  },
+  {
+    id: 5,
+    des: " TotalApp is a robust enterprise application developed for Total Kenya PLC, designed to streamline operations related to fuel station management, inventory tracking, sales reporting, and personnel oversight.",
+    src: "https://i.postimg.cc/hGCPNbsm/Total-App.png",
+    title: "TotalApp – Techsavanna",
+    // github: "https://github.com/Neuman-Nz/WAKHANA-LIMITED",
+    live: "https://totalapp.techsavanna.co.ke/"
+  }
 ]
