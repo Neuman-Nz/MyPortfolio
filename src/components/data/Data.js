@@ -48,7 +48,7 @@ export const projectData = [
     src: "https://i.postimg.cc/L4cG4Y0Z/Loyalty-App.png",
     title: "Customer Loyalty Platform (Prototype)",
     // github: "https://github.com/Neuman-Nz/Job-seeker-App",
-    live: "https://react-native-glimpse-view-30.vercel.app/"
+    live: "https://my-points-eta.vercel.app/"
   },
   {
     id: 2,
